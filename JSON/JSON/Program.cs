@@ -8,8 +8,10 @@
             //JSONDataOperation.JsonDeserialization();
 
             //XMLDataOperation.xmlSerialize();
-            XMLDataOperation.XmlDeSerialize(); 
+            //XMLDataOperation.XmlDeSerialize(); 
 
+            CSVOperation.CSVSerilaization();
+            CSVOperation.CSVDeserialize();
 
 
         }
